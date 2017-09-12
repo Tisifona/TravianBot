@@ -7,4 +7,4 @@
 gradle compileJava test
 ```
 `
-.
+.`
